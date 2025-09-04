@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    padding: 15px;
+    gap: 5px;
+    width: 300px;
+    border: 2px solid grey;
+}
+.button {
+    padding: 3px;
+    width: fit-content;
+}
+
+.error {
+    color: red;
+}
